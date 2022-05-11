@@ -1,5 +1,7 @@
 # Run Buddy
 
+## This project is currently in progress
+
 ## Why I Chose This Project
 
 ## What I Learned
