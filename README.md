@@ -1,5 +1,7 @@
 # Run Buddy
 
+https://cbarber1984.github.io/run-buddy/
+
 ## This project is currently in progress
 
 ## Why I Chose This Project
