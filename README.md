@@ -3,7 +3,7 @@
 https://cbarber1984.github.io/run-buddy/
 
 ## This project is currently in progress
-![Screenshot](./assets/run_buddy_screenshot.png) 
+![Screenshot](./assets/images/run_buddy_screenshot2.png) 
 
 ## Why I Chose This Project
 
