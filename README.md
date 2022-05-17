@@ -2,7 +2,6 @@
 
 https://cbarber1984.github.io/run-buddy/
 
-## This project is currently in progress
 ![Screenshot](./assets/images/run_buddy_screenshot2.png) 
 
 ## Why I Chose This Project
@@ -15,8 +14,10 @@ I wanted an experience designing a client website to perform specific functions 
     - How to connect form and label HTML elements
     - The practical application of using generic classes and CSS rules to efficiently style multiple elements
     - How to use iframe to embed Google Maps
+    - Practically implementing secondary style sheets to efficiently manage secondary pages
 
 ## Next Steps
+    If I were going to continue developing this site, here are the things I would like to do:
     - Set the form submit button to actually submit data to a trackable location
-    - Add legal disclaimer page
+    - Implement media queries to make the site elements more responsive for mobile users
 
