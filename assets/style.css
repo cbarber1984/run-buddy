@@ -157,6 +157,7 @@ section {
     width: 80%;
     font-size: 20px;
     margin: 0 auto;
+    text-align: center;
 }
 
 .steps {
@@ -171,6 +172,10 @@ section {
     padding: 0 100px 20px 100px;
     display: inline-block;
     border-bottom: 3px solid;
+    padding-bottom: 20px;
+    text-align: center;
+    margin: 0 auto 35px auto;
+    width: 50%;
 }
 
 .primary-border {
@@ -234,6 +239,10 @@ section {
 
 .text-right {
     text-align: right;
+}
+
+.flex-row {
+    display: flex;
 }
 
 .trainer-bio h3 {
